@@ -23,6 +23,11 @@ import {
     jobit,
     tripguide,
     threejs,
+    stream,
+    job,
+    meating,
+    iuc,
+    aspiring,
   } from "../assets";
   
   export const navLinks = [
@@ -227,7 +232,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: iuc,
       source_code_link: "https://mystudentinfos.myiuc.com/",
     },
     {
@@ -252,7 +257,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: iuc,
       source_code_link: "https://galio.myiuc.com/",
     },
     {
@@ -275,6 +280,115 @@ import {
       ],
       image: tripguide,
       source_code_link: "https://expo.dev/artifacts/eas/gSaQKtc18ME97aE7AVfhKB.apk",
+    },
+    {
+      name: "ImeetHub",
+      description:
+        "Record And Summarize Your Online Meetings",
+      tags: [
+        {
+          name: "React JS",
+          color: "blue-text-gradient",
+        },
+        {
+          name: " express JS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "PostgreSQL",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: meating,
+      source_code_link: " https://imeethub.vercel.app/ ",
+    },
+    {
+      name: "JobRie",
+      description:
+        "Cameroonian marketplace for the sale of services and ads",
+      tags: [
+        {
+          name: "React JS",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "TypeScript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: " express JS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "PostgreSQL",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: job,
+      source_code_link: " https://jobrie.com/  ",
+    },
+    {
+      name: " in live Stream",
+      description:
+        "A music streeming platform",
+      tags: [
+        {
+          name: "React JS",
+          color: "blue-text-gradient",
+        },
+        {
+          name: " express JS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "PostgreSQL",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: stream,
+      source_code_link: " https://www.inlive-stream.com/ ",
+    },
+    {
+      name: "alaxion",
+      description:
+        "Cameroonian marketplace for the sale of services and ads",
+      tags: [
+        {
+          name: " Next JS",
+          color: "blue-text-gradient",
+        },
+        {
+          name: " Django",
+          color: "green-text-gradient",
+        },
+        {
+          name: "mongo DB ",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://www.alaxione.fr/  ",
+    },
+    {
+      name: "Aspiring Kids",
+      description:
+        "Aspiring Kids Learning Society supports students in grades K-12 with reading, writing, and math tutoring instruction, academic enrichment, and so much more!",
+      tags: [
+        {
+          name: " Next JS",
+          color: "blue-text-gradient",
+        },
+        {
+          name: " Django",
+          color: "green-text-gradient",
+        },
+        {
+          name: "mongo DB ",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: aspiring,
+      source_code_link: "https://www.aspiringkids.org/ ",
     },
   ];
   

@@ -25,7 +25,7 @@ const Experience = () => {
           iconStyle={{ background:item.iconBg}}
           icon={
           <div className= 'flex w-full h-full justify-center items-center'>
-            <img src={item.icon} alt={item.company_name} className='w-[60%] h-[60%] object-contain '/>
+            {/* <img src={item.icon} alt={item.company_name} className='w-[60%] h-[60%] object-contain '/> */}
           </div>}
           >
             <div>

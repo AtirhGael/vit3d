@@ -8,6 +8,11 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
+import aspiring from "./tech/aspiring.jpg";
+import iuc from "./tech/iuc.jpg";
+import job from "./tech/job.jpg";
+import meating from "./tech/meating.jpg";
+import stream from "./tech/stream.jpg";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
@@ -32,6 +37,11 @@ import tripguide from "./tripguide.png";
 
 
 export {
+  aspiring,
+  iuc,
+  job,
+  meating,
+  stream,
   logo,
   backend,
   creator,
